@@ -1,2 +1,3 @@
 class ScenariosController < ApplicationController
 end
+  
